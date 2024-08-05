@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil
-
+Estou estudando na ALURA
+Estou me desenvolvendo na linguagem JavaScript
 <!--
 **anamariasp/anamariasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
