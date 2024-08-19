@@ -8,6 +8,6 @@ Meu nome é Ana Maria
 
 ### Você pode entrar em contato comigo :mailbox
 
-ana.@escola.pr.gov.br
+ana.pecanha.soares@escola.pr.gov.br
 
 ![descrição do GIF](link GIF do Tenor)
